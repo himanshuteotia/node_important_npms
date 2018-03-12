@@ -9,9 +9,13 @@ Hierarchical node.js configuration with files, environment variables, command-li
 3. config
 
 ```Backgroud process ```
+
 Use Messaging for Background Processes - You have lots of options for messaging queues:
 
 RabbitMQ
+
 Kafka
+
 NSQ
+
 AWS SQS
