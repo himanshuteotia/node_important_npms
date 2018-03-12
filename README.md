@@ -12,10 +12,10 @@ Hierarchical node.js configuration with files, environment variables, command-li
 
 Use Messaging for Background Processes - You have lots of options for messaging queues:
 
-RabbitMQ
+1. RabbitMQ
 
-Kafka
+2. Kafka
 
-NSQ
+3. NSQ
 
-AWS SQS
+4. AWS SQS
